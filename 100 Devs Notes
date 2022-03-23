@@ -4,7 +4,7 @@ This is my journey of learning how to become a Software Developer/Engineer.
 The course I will be looking at or taking is 100 Devs by Leon Noel.
 
 March 23, 2022
-Class 01 - 100 Devs
+<h1> Class 01 - 100 Devs </h1>
 - When it comes to getting a job as a Software Developer
   the most important factor is the networking and the way
   that you apply to jobs rather than your raw coding ability.
@@ -16,10 +16,24 @@ Class 01 - 100 Devs
 2. Consistency - Spread your work load over each day for a certaint amount of hours not 10 hours in a day 1-2 hours a day is better than 10 hours for one day
 3. Taking Care Of Yourself - Most people burnout so make sure you don't overwork yourself, sleep, eating right, exercise 
 
-- We are learning full stack development
-
 - Learning How to Learn
 1. Active Recall - Recall the things you have just read. Stop at an end of paragraph or page and talk to yourself on what you just learned
 2. Spaced Repetition
 
 - What is a study practice tha enables me to do a quarter of the work yet yielding better results?
+
+- What is the internet?
+- A Client side device is what we use to access the internet so phones, laptops, computers and we use to consume
+- A Server side device it servers different kinds of contents like HTML, Javascript, CSS
+
+- What is full stack development?
+- These guys focus on both front end and back end developer
+
+- What is HTML5?
+- It is the fifth version of HTML which introduced new features in the browser video, audio, canvas, geolocation, and websockets
+
+- The Golden Rule
+1. HTML - Content/Structure
+2. CSS - Style
+3. JS - Behavior/Interactions
+- Keep these seperate as it is easier to read and for organization
