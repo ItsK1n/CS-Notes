@@ -58,4 +58,54 @@ https://www.youtube.com/watch?v=Z-zNHHpXoMM&ab_channel=AliAbdaal
 
 March 24, 2022
 Class 02 - 100 Devs
+- HTML and CSS are not considered programing languages, these are considered markup languages
+
+- Heading Elements (tags)
+<h1> MOST IMPORTANT </h1>
+<h2> .............. </h2>
+<h3> .............. </h3>
+<h4> .............. </h4>
+<h5> .............. </h5>
+<h6> .............. </h6>
+There should only be one h1 technically
+
+- Other Text Elements
+<p> Paragraph </p>
+<span> Short Text </span>
+<pre> Preserves Whitespaces </pre> 
+
+- Nerd Fights
+<br>
+<hr>
+
+- Assisted Device Elements
+<em> Stess Emphasis </em>
+<strong> Strong Importance </strong>
+
+- Ordered List
+<ol>
+  <li> Item 1 </li>
+  <li> Item 2 </li>
+</ol>
+
+- Unordered List
+<ul>
+  <li> Item 1 </li>
+  <li> Item 2 </li>
+</ul>
+
+- Containing Elements
+<div> </div>
+<section> </section>
+<article> </article>
+<aside> </aside>
+<header> </header>
+<footer> </footer>
+
+- Deprecated Elements
+<blink>
+<marquee>
+kinda...
+<b> Bold Text </b>
+<i> Italic Text </i>
 
