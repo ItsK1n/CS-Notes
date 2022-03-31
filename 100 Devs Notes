@@ -56,6 +56,30 @@ https://www.youtube.com/watch?v=Z-zNHHpXoMM&ab_channel=AliAbdaal
 - rather than focusing on one topic you already know and space repetition can be tracked using a google sheet or anki
 
 https://www.coursera.org/learn/learning-how-to-learn/home/week/1
+- Focused mode - Focus on something 
+- Diffuse mode - Looking at something broadly
+- Procrastination is also linked to pain as it is uncomfortable and we tend to turn towards things that makes us feel happy
+- The Pomodoro technique is a good way to counter this uncomfort feeling and it is focusing up for a specific time then 
+  taking a break either rewarding ourselves for a bit and going back to the same routine
+- Sleep helps remove toxins and allows memorization and learning things to submit themselves
+- Exercise is also important as it improves memeory and learning
+- Just like working out you should never cram everything in a day as nothing is built in a day like that muscles cant be strong and big after
+  one day of working out so cram is a bad idea
+  
+- Chunks are best built with
+Focused Attention
+Understanding
+Practice
+- Emotion affect learning
+- Einstellung - The mindset in which you think theres only one way to solve the problem but there is many ways and different solutions to find it
+
+- Habits are built up of four parts
+The que - Something the reminds you of what to do tells you what to do
+The routine - The response to the que
+The reward
+The belief - Whatever you believe it will happen
+- The Law of Serendipity
+Lady Luck Favor Those Who Tries
 
 
 March 24, 2022
@@ -110,4 +134,31 @@ There should only be one h1 technically
 kinda...
 <b> Bold Text </b>
 <i> Italic Text </i>
+
+Homework #2:
+The three common terms in HTML:
+- Elements these are designators that define the structure both < and > are surrounding the elements name
+- Tags there are opening and closing tags opening tags usually looks like <h1> CONTENT and closing tag </h1>
+- Attributes these provide additional information about an element and is found within opening tag after the element's name
+
+March 27, 2022
+Class 03 - 100 Devs
+- Navigation
+<nav>
+  <ul>
+    <li><a href="news.html">news</a></li>
+    <li><a href="sports.html">sports</a></li>
+    <li><a href="weather.html">weather</a></li>
+  </ul>
+</nav>
+These are navigation elements that helps us move around in the links like categories
+
+- Forms
+<form action="confirmed.html" methods="post">
+<!-- Data collection element goes here -->
+</form>
+
+Learned how to break down a website in blocks and look at each chunk to see which elements are contained in that chunk
+and see how we can replicate it to the best of our ability
+
 
